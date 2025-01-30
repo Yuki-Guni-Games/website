@@ -2,7 +2,6 @@ baseURL = 'yukigunigames.com/'
 languageCode = 'en-us'
 title = 'Yuki Guni Games'
 theme = 'hello-friend-ng'
-paginate = 10
 
 [params]
   dateform        = "Jan 2, 2006"
