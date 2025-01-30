@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuki Guni Games</title>
-    <link>https://yukigunigames.com/</link>
+    <link>yukigunigames.com/</link>
     <description>Recent content on Yuki Guni Games</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Jan 2025 13:54:22 +0100</lastBuildDate>
-    <atom:link href="https://yukigunigames.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="yukigunigames.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://yukigunigames.com/posts/helloworld/</link>
+      <link>yukigunigames.com/posts/helloworld/</link>
       <pubDate>Thu, 30 Jan 2025 13:54:22 +0100</pubDate>
-      <guid>https://yukigunigames.com/posts/helloworld/</guid>
+      <guid>yukigunigames.com/posts/helloworld/</guid>
       <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;p&gt;I am a website&lt;/p&gt;</description>
     </item>
   </channel>

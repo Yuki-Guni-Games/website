@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yukigunigames.com/posts/helloworld/</loc>
+    <loc>yukigunigames.com/posts/helloworld/</loc>
     <lastmod>2025-01-30T13:54:22+01:00</lastmod>
   </url><url>
-    <loc>https://yukigunigames.com/posts/</loc>
+    <loc>yukigunigames.com/posts/</loc>
     <lastmod>2025-01-30T13:54:22+01:00</lastmod>
   </url><url>
-    <loc>https://yukigunigames.com/</loc>
+    <loc>yukigunigames.com/</loc>
     <lastmod>2025-01-30T13:54:22+01:00</lastmod>
   </url><url>
-    <loc>https://yukigunigames.com/categories/</loc>
+    <loc>yukigunigames.com/categories/</loc>
   </url><url>
-    <loc>https://yukigunigames.com/tags/</loc>
+    <loc>yukigunigames.com/tags/</loc>
   </url>
 </urlset>

@@ -1,4 +1,4 @@
-baseURL = 'https://yukigunigames.com/'
+baseURL = 'yukigunigames.com/'
 languageCode = 'en-us'
 title = 'Yuki Guni Games'
 theme = 'ananke'
