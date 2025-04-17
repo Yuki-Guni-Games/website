@@ -10,7 +10,7 @@ theme = 'hello-friend-ng'
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "A video game studio"
+  homeSubtitle = "Porting. Co-dev. Video games."
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = true
@@ -22,7 +22,7 @@ theme = 'hello-friend-ng'
   # enableGlobalLanguageMenu = true
 
   # Metadata mostly used in document's head
-  description = "Home of Yuki Guni Games"
+  description = "Porting. Co-dev. Video games."
   keywords = "homepage"
   images = [""]
 
@@ -59,3 +59,19 @@ theme = 'hello-friend-ng'
     #identifier = "faq"
     #name       = "FAQ"
     #url        = "/faq"
+	
+[[params.social]]
+  name = "email"
+  url = "mailto:info@yukigunigames.com"
+	
+[[params.social]]
+  name = "bluesky"
+  url = "https://bsky.app/profile/yukiguni.games"
+  
+[[params.social]]
+  name = "mastodon"
+  url = "https://bsky.app/profile/yukiguni.games"
+  
+[[params.social]]
+  name = "instagram"
+  url = "https://www.instagram.com/yukigunigames/"
