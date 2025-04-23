@@ -70,7 +70,7 @@ theme = 'hello-friend-ng'
   
 [[params.social]]
   name = "mastodon"
-  url = "https://bsky.app/profile/yukiguni.games"
+  url = "https://mastodon.gamedev.place/@yukigunigames"
   
 [[params.social]]
   name = "instagram"
