@@ -9,6 +9,9 @@ theme = 'hello-friend-ng'
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
+  # Title for home
+  #homeTitle = "Yuki Hello"
+
   # Subtitle for home
   homeSubtitle = "Porting. Co-dev. Video games."
 
@@ -18,6 +21,8 @@ theme = 'hello-friend-ng'
   # Enable sharing buttons, if you like
   enableSharingButtons = false
   
+  #enableThemeToggle = true
+  
   # Show a global language switcher in the navigation bar
   # enableGlobalLanguageMenu = true
 
@@ -25,10 +30,16 @@ theme = 'hello-friend-ng'
   description = "Porting. Co-dev. Video games."
   keywords = "homepage"
   images = [""]
+  
+  [Portrait]
+    Path = "/img/yukilogo.png"
+    Alt = "Yuki Guni Games"
+    MaxWidth = 200
 
-#[taxonomies]
-    #category = "blog"
-    #tag      = "tags"
+# These are only here to prevent Hugo issues
+[taxonomies]
+    category = "categories"
+    tag      = "tags"
     #series   = "series"
 
 [languages]
@@ -50,15 +61,11 @@ theme = 'hello-friend-ng'
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
-  #[[menu.main]]
-    #identifier = "blog"
-    #name       = "Blog"
-    #url        = "/posts"
-	
-  #[[menu.main]]
-    #identifier = "faq"
-    #name       = "FAQ"
-    #url        = "/faq"
+
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
 	
 [[params.social]]
   name = "email"
@@ -72,6 +79,6 @@ theme = 'hello-friend-ng'
   name = "mastodon"
   url = "https://mastodon.gamedev.place/@yukigunigames"
   
-[[params.social]]
-  name = "instagram"
-  url = "https://www.instagram.com/yukigunigames/"
+#[[params.social]]
+  #name = "instagram"
+  #url = "https://www.instagram.com/yukigunigames/"
