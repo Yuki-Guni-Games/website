@@ -30,11 +30,6 @@ theme = 'hello-friend-ng'
   description = "Porting. Co-dev. Video games."
   keywords = "homepage"
   images = [""]
-  
-  [Portrait]
-    Path = "/img/yukilogo.png"
-    Alt = "Yuki Guni Games"
-    MaxWidth = 200
 
 # These are only here to prevent Hugo issues
 [taxonomies]
