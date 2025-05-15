@@ -29,7 +29,6 @@ function setLogo(dark)
 
 // Detect the color scheme the operating system prefers.
 function detectOSColorTheme() {
-    console.log("detectOSCOlorTheme");
   if (chosenThemeIsDark) {
     document.documentElement.setAttribute("data-theme", "dark");
     setLogo(true);
