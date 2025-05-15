@@ -61,6 +61,11 @@ theme = 'hello-friend-ng'
     identifier = "about"
     name       = "About"
     url        = "/about"
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact"
 	
 [[params.social]]
   name = "email"
