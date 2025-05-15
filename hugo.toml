@@ -33,6 +33,12 @@ theme = 'hello-friend-ng'
   
   plausibleDataDomain = 'yukigunigames.com'
   plausibleScriptSource = 'https://plausible.io/js/script.js'
+  
+  [params.logo]
+    logoCursorDisabled = true
+    logoCursorPathname = false
+    #logoMark = ">"
+    logoMark = " "
 
 # These are only here to prevent Hugo issues
 [taxonomies]
@@ -52,6 +58,7 @@ theme = 'hello-friend-ng'
 
     [languages.en.params.logo]
       logoText = "雪国"
+      #logoText = "$ cd /雪国/"
       logoHomeLink = "/"
     # or
     #
