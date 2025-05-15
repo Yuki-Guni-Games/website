@@ -30,6 +30,9 @@ theme = 'hello-friend-ng'
   description = "Porting. Co-dev. Video games."
   keywords = "homepage"
   images = [""]
+  
+  plausibleDataDomain = 'yukigunigames.com'
+  plausibleScriptSource = 'https://plausible.io/js/script.js'
 
 # These are only here to prevent Hugo issues
 [taxonomies]
