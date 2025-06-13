@@ -10,7 +10,7 @@ theme = 'hello-friend-ng'
   dateformNumTime = "2006-01-02 15:04"
 
   # Title for home
-  #homeTitle = "Yuki Hello"
+  #homeTitle = "Yuki Guni Games"
 
   # Subtitle for home
   homeSubtitle = "Porting. Co-dev. Video games."
@@ -89,6 +89,6 @@ theme = 'hello-friend-ng'
   name = "mastodon"
   url = "https://mastodon.gamedev.place/@yukigunigames"
   
-#[[params.social]]
-  #name = "instagram"
-  #url = "https://www.instagram.com/yukigunigames/"
+[[params.social]]
+  name = "instagram"
+  url = "https://www.instagram.com/yukigunigames/"
