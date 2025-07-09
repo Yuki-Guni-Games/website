@@ -85,9 +85,9 @@ theme = 'hello-friend-ng'
   name = "bluesky"
   url = "https://bsky.app/profile/yukiguni.games"
   
-[[params.social]]
-  name = "mastodon"
-  url = "https://mastodon.gamedev.place/@yukigunigames"
+#[[params.social]]
+#  name = "mastodon"
+#  url = "https://mastodon.gamedev.place/@yukigunigames"
   
 [[params.social]]
   name = "instagram"
