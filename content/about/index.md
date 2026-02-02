@@ -1,5 +1,5 @@
 +++
-date = '2025-09-24'
+date = '2026-02-02'
 draft = false
 title = 'About'
 +++
@@ -8,8 +8,8 @@ Yuki Guni Games is a fresh new indie game studio located in Gothenburg, Sweden, 
 
 Here is what we have been working on recently:
 - *Unannounced Project* (Porting, Switch 2, Unreal)
-- *Unannounced Project* (Co-dev/Porting, *Unannounced platform*, Unity)
-- *Unannounced Prototype* (Co-dev, PC, Unity) 
+- [Snow Bros Wonderland](https://luna.amazon.se/game/snow-bros-wonderland/B0CTHRCG5P?g=s) (With [Bitwave](https://bitwavegames.com). Co-dev/Porting, Amazon Luna Game Night, Unity)
+- Untitled Prototype (With [Jumpship](https://jumpship.co.uk/). Co-dev, PC, Unity) 
 
 Here is an assortment of titles we have worked on previously:
 - [Earthion](https://www.youtube.com/watch?v=PP59afi7FD8) (Steam, Switch, PS5, Xbox One, Xbox Series S|X)
