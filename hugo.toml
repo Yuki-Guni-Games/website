@@ -39,6 +39,10 @@ theme = 'hello-friend-ng'
     logoCursorPathname = false
     #logoMark = ">"
     logoMark = " "
+	
+  [params.footer]
+    trademark = "Yuki Guni Games ek. för."
+	bottomText = [ "Org. Number: <a href=https://foretagsinfo.bolagsverket.se/sok-foretagsinformation-web/foretag/7696433395>769643-3395</a>" ]
 
 # These are only here to prevent Hugo issues
 [taxonomies]
@@ -50,7 +54,7 @@ theme = 'hello-friend-ng'
   [languages.en]
     title = "Yuki Guni Games"
     keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    # copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
   [languages.en.params]
